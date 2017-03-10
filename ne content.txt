@@ -1,3 +1,7 @@
 new content is here
 second row
+<<<<<<< HEAD
 edited from windows mndoe
+=======
+web edint here
+>>>>>>> 52560c66bf7d6e53cd94a287127b00e4bd86733d
